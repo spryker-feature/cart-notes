@@ -1,0 +1,13 @@
+{
+  "name": "spryker-feature/cart-notes",
+  "description": "Cart Notes [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-feature/cart": "~2018.11.0",
+    "spryker-shop/cart-note-widget": "^1.1.0",
+    "spryker/cart-note": "^0.1.0"
+  }
+}
