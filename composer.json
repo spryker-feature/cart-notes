@@ -6,8 +6,8 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker-feature/cart": "~2018.12.0",
-    "spryker-shop/cart-note-widget": "^1.1.0",
+    "spryker-feature/cart": "~201903.0",
+    "spryker-shop/cart-note-widget": "^1.1.1",
     "spryker/cart-note": "^0.1.0"
   }
 }
