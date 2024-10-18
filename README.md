@@ -15,3 +15,4 @@ If you don't include the feature dependencies, make sure you use the respective 
 
 ## Optional modules
 - [CartNoteProductBundleConnector ^1.0.0](https://github.com/spryker/cart-note-product-bundle-connector) (Connector)
+- [CartNotesBackendApi ^1.0.0](https://github.com/spryker/cart-notes-backend-api) (Glue Backend)
